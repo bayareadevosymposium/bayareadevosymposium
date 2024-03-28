@@ -25,7 +25,7 @@ In past iterations, researchers have come from <b>S</b>tanford, UC <b>B</b>erkel
 
 Research areas include, but are not limited to:
 <ul>
-<li>a</li>
-<li>b</li>
-<li>c</li>
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
 </ul>
