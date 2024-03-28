@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our call for abstracts is now open! If you are interested in giving a short talk, see this page for details. We look forward to reading your submission!
+Our call for abstracts is now open! If you are interested in giving a short talk, see <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/abstracts/" target="_blank">this page</a> for details. We look forward to hearing about your work!
