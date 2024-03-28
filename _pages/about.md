@@ -24,9 +24,8 @@ The Bay Area Developmental Symposium is a one-day gathering to promote developme
 In past iterations, researchers have come from Stanford, UC Berkeley, UC Santa Cruz, and UC Merced, and this year, we are excited for scholars from UC Davis to join us, too!
 
 Research areas include, but are not limited to:
-<li>
-<ul>a</ul>
-<ul>b</ul>
-<ul>c</ul>
-<ul>d</ul>
-</li>
+<ul>
+<li>a</li>
+<li>b</li>
+<li>c</li>
+</ul>
