@@ -15,6 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+<img src="/assets/img/20210128_rainy_campus_SRA1446.jpg" class="img-fluid z-depth-1 rounded" width="100%" height="auto" alt="20210128_rainy_campus_SRA1446.jpg">
+
 The 2024 installment of the <b>Bay Area Developmental Symposium</b> will take place at Stanford University on <b>Thursday, May 9</b>!
 
 <h2>What is it?</h2>

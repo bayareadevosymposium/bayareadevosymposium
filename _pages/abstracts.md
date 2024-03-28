@@ -13,6 +13,6 @@ If you have any questions about presenting or ideas for talk formats, feel free 
 
 For those <b>interested in giving a talk</b>, please submit an <b>abstract</b> no longer than 250-300 words using the <b>link below</b>. These abstracts will help us structure and constrain our talk schedule (in accordance with the number of submissions) and help us gain a sense of potential theme blocks.
 
-<b>Submission Form Link<b>: <a href="https://docs.google.com/forms/d/17GB1LG-TuaHoVUNRH2UHEXCbrUzmbxkOCk6LHUByLq0/edit" target="_blank">Google Form</a>
+<b>Submission Form Link<b>: <a href="https://docs.google.com/forms/d/17GB1LG-TuaHoVUNRH2UHEXCbrUzmbxkOCk6LHUByLq0/edit" target="_blank">Google Form</a>{text-align: center;}
 
-<b>DEADLINE:</b> The above submission form will close on <u><b>April 3, 2024, 12 PM PT</b></u>.
+<b>DEADLINE:</b> The above submission form will close on <u><b>April 3, 2024, 12 PM PT</b></u>.{text-align: center;}
