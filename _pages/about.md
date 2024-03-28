@@ -15,5 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-The sixth installment of the Bay Area Developmental Symposium will take place at Stanford University on May 9, 2024!
-
+The 2024 installment of the <b>Bay Area Developmental Symposium</b> will take place at Stanford University on <b>Thursday, May 9</b>!
