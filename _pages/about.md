@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: 
+  align: right
   image: 20210128_rainy_campus_SRA1446.jpeg
   image_circular: false # crops the image to make it circular
   more_info: 
