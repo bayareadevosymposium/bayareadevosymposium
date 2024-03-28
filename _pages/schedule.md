@@ -2,11 +2,9 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+The event will be held on Thursday, May 9, and run between 12 and 7 PM.  This page will soon be updated with further information on directions, and parking. Please check back around <b>mid-April</b>!

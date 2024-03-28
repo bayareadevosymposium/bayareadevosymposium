@@ -2,7 +2,7 @@
 layout: page
 permalink: /abstracts/
 title: Call for Abstracts
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 2
 ---
