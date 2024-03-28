@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-test
-
 We warmly invite all SBSC-M participants to either give a <b>short talk or poster</b>, and we explicitly welcome <b>work at any stage</b>, including just an experimental idea or initial pilot results!
 
 <h2>Talks</h2>
