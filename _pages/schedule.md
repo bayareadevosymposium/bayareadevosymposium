@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /schedule/
+permalink: /schedule
 title: Schedule
 description: 
 nav: true

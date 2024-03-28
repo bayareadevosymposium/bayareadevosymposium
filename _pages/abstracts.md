@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /abstracts/
+permalink: /abstracts
 title: Call for Abstracts
 description: 
 nav: true
