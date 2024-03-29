@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-We warmly invite all SBSC-M participants to either give a <b>short talk or poster</b>, and we explicitly welcome <b>work at any stage</b>, including just an experimental idea or initial pilot results! Please see <a href="bayareadevosymposium/schedule" target="_blank">this page</a> for more information on these respective presentation formats.
+We warmly invite all SBSC-M participants to either give a <b>short talk or poster</b>, and we explicitly welcome <b>work at any stage</b>, including just an experimental idea or initial pilot results! Please see <a href="/schedule" target="_blank">this page</a> for more information on these respective presentation formats.
 
 If you have any questions about presenting or ideas for talk formats, feel free to reach out to the student representatives!
 
