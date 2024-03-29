@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /schedule
 title: Schedule
 description: 
@@ -8,7 +8,8 @@ nav_order: 3
 ---
 
 ```markdown
-> ##### INFO
+> ##### WARNING
+>
 > We expect to release our finalized program, including details on talk and poster sessions, directions, and parking, by mid-April!
 {: .block-warning }
 ```
