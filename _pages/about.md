@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 The 2024 installment of the <b>Bay Area Developmental Symposium</b> will take place at Stanford University on <b>Thursday, May 9</b>!
 </div>
 <br>
-<img src="/bayareadevosymposium/assets/img/20210128_rainy_campus_SRA1446.jpeg" alt="Stanford University" width="100%" height="100%">
+<img class="img-fluid z-depth-1 rounded" src="/bayareadevosymposium/assets/img/20210128_rainy_campus_SRA1446.jpeg" alt="Stanford University" width="100%" height="100%">
 <br><br>
 The Bay Area Developmental Symposium is a <b>one-day gathering to promote developmental research</b> in the Bay Area. We are devoted to making this event <b>trainee-focused</b>, meaning that we warmly invite graduate students, postdocs, and research staff to attend and present their ongoing work! Faculty are also highly encouraged to attend.
 
