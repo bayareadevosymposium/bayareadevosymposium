@@ -7,7 +7,13 @@ nav: true
 nav_order: 3
 ---
 
-This year's Bay Area Developmental Symposium will be held at held at Stanford University in Palo Alto, CA, on Thursday, May 9. The event will start around lunchtime (~12pm) and end after a group dinner (~7-8pm). The schedule will include a poster session, a set of brief talks, as well as lunch and dinner to meet and talk with the other attendees. We expect to release our finalized program, including details on talk and poster sessions, directions, and parking, by mid-April!
+```markdown
+> ##### INFO
+> We expect to release our finalized program, including details on talk and poster sessions, directions, and parking, by mid-April!
+{: .block-warning }
+```
+
+This year's Bay Area Developmental Symposium will be held at held at Stanford University in Palo Alto, CA, on Thursday, May 9. The event will start around lunchtime (~12pm) and end after a group dinner (~7-8pm). The schedule will include a poster session, a set of brief talks, as well as lunch and dinner to meet and talk with the other attendees.
 
 
 We warmly invite all SBSC-M participants to either give a <b>short talk or poster</b>, and we explicitly welcome <b>work at any stage</b>, including just an experimental idea or initial pilot results!
