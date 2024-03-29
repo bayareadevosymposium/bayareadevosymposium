@@ -15,6 +15,6 @@ For those <b>interested in giving a talk</b>, please submit an <b>abstract</b> n
 
 <br>
 <div style="text-align: center;">
-<b>Submission Form Link<b>: <a href="https://docs.google.com/forms/d/17GB1LG-TuaHoVUNRH2UHEXCbrUzmbxkOCk6LHUByLq0/edit" target="_blank">Google Form</a>
+<b>Submission Form Link<b>: []
 <br><br>
 <b>DEADLINE:</b> The above submission form will close on Wed, <b>April 10, 2024, 12 PM PT</b>.
