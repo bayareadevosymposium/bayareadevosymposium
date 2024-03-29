@@ -9,9 +9,9 @@ nav_order: 4
 
 In case of questions or requests, feel free to reach out to any of the student representatives below!
 
-<b>Stanford:</b> Emily Chen (`emchen15[at]stanford[dot]edu`), Sarah Tung (`sstung[at]stanford[dot]edu`), and Adani Abutto (`aabutto[at]stanford[dot]edu`)
+<b>Stanford:</b> Emily Chen, Sarah Tung, and Adani Abutto (`{emchen15, sstung, aabutto}[at]stanford[dot]edu`)
 
-<b>Berkeley:</b> Fei Dai (`f_d[at]berkeley[dot]edu`) and Alyson Wong (`alyson_wong[at]berkeley[dot]edu`)
+<b>Berkeley:</b> Fei Dai and Alyson Wong (`{f_d, alyson_wong}[at]berkeley[dot]edu`)
 
 <b>Santa Cruz:</b> Sam McHugh (`srmchugh[at]ucsc[dot]edu`)
 
