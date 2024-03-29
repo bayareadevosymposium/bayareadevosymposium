@@ -15,9 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+<div style="text-align: center;">
 <h1>SBSC-M 2024</h1>
 
 The 2024 installment of the <b>Bay Area Developmental Symposium</b> will take place at Stanford University on <b>Thursday, May 9</b>!
+<div style="text-align: center;">
 
 <img src="/bayareadevosymposium/assets/img/20210128_rainy_campus_SRA1446.jpeg" alt="Stanford University" width="100%" height="100%">
 
