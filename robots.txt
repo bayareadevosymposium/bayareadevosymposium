@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bayareadevosymposium.github.io/bayareadevosymposium/sitemap.xml
+Sitemap: https://bayareadevosymposium.github.io/sitemap.xml
