@@ -13,19 +13,19 @@ This year's Bay Area Developmental Symposium will be held at Stanford University
 The full schedule includes <b>a poster session, two talk sessions, as well as lunch and dinner</b> to meet and talk with the other attendees. For details, see the schedule below!
 
 | Time | Duration | Event |
-| :----------- | :------------: | ------------: |
-| 12-12:30pm       |   90 minutes     |Arrive at Stanford, put up posters, and choose from lunch options|
+| :----------- | :----------- | :----------- |
+| 12-1:30pm       |   90 minutes     |Arrive at Stanford, Lunch |
 | 12:35-12:45pm    |   10 minutes     |Opening remarks|
-| 12:45-1:30pm     |   60 minutes     |Faculty roundtable (optional) with lunch|
-| 1:30-1:40pm      |   10 minutes     |Walk over to talk room and set up any talk equipment |
-| 1:40-2:55pm      |   75 minutes     |Talk Session 1|
-| 2:55-3:10pm      |   15 minutes     |Coffee Break|
-| 3:10-4:10pm      |   60 minutes     |Poster Session|
-| 4:10-4:25pm      |   15 minutes     |Coffee Break|
-| 4:25-5:40pm      |   75 minutes     |Talk Session 2|
-| 5:40-5:50pm      |   10 minutes     |Stretch Break|
-| 5:50-6:00pm      |   10 minutes     |Closing Remarks|
-| 6-8 pm           |   120 minutes    |Rooftop Dinner (open end)|
+| 12:45-1:30pm     |   60 minutes     |Faculty roundtable (optional) |
+| 1:30-1:40pm      |   10 minutes     |Presenters: Set up talk equipment |
+| 1:40-2:55pm      |   75 minutes     |Talk session 1|
+| 2:55-3:10pm      |   15 minutes     |Coffee break|
+| 3:10-4:10pm      |   60 minutes     |Poster session|
+| 4:10-4:25pm      |   15 minutes     |Coffee break|
+| 4:25-5:40pm      |   75 minutes     |Talk session 2|
+| 5:40-5:50pm      |   10 minutes     |Stretch break|
+| 5:50-6:00pm      |   10 minutes     |Closing remarks|
+| 6-8 pm           |   120 minutes    |Rooftop dinner (open end)|
 
 <h2>Talks</h2>
 Talks will be 15 minutes each (including Q&A). There are two talk sessions, each including presentations centered around a broader theme:
