@@ -10,7 +10,7 @@ nav_order: 2
 > ##### NOTE
 >
 > The call for abstracts is now <b>closed</b>! Thank you for your submissions, and we look forward to seeing you on May 9!
-{: .block-warning }
+{: .block-danger }
 
 We warmly invite all SBSC-M participants to either give a <b>short talk or poster</b>, and we explicitly welcome <b>work at any stage</b>, including just an experimental idea or initial pilot results!
 

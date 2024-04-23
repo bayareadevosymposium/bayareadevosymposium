@@ -12,7 +12,6 @@ This year's Bay Area Developmental Symposium will be held at Stanford University
 <br><br>
 The full schedule includes <b>a poster session, two talk sessions, as well as lunch and dinner</b> to meet and talk with the other attendees. For details, see the schedule below!
 
-```markdown
 | Time | Duration | Event |
 | :----------- | :------------: | ------------: |
 | 12-12:30pm       |   90 minutes     |Arrive at Stanford, put up posters, and choose from lunch options|
@@ -27,7 +26,6 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 | 5:40-5:50pm      |   10 minutes     |Stretch Break|
 | 5:50-6:00pm      |   10 minutes     |Closing Remarks|
 | 6-8 pm           |   120 minutes    |Rooftop Dinner (open end)|
-```
 
 <h2>Talks</h2>
 Talks will be 15 minutes each (including Q&A).
@@ -43,7 +41,7 @@ There are two talk sessions, each including presentations centered around a broa
     <li>Parent-Child Conversations about Science “Misconceptions”</li>
 </ol>
 
-<b>Talk Session 2 – Socialization, Emotion</b>
+<b>Talk Session 2 – Socialization, Emotion, and Cultural Interactions</b>
 <ol>
     <li>Interviews with AAPI Parents on Racial Socialization</li>
     <li>Infant-centered Behavioral Response Patterns to Discrete Emotions</li>
@@ -53,4 +51,4 @@ There are two talk sessions, each including presentations centered around a broa
 </ol>
 
 <h2>Posters</h2>
-Posters will be presented . Poster format will be announced and communicated in the coming weeks; check back around the end of April for updates!
+The poster format will be announced and communicated in the coming weeks; check back around the end of April for updates!
