@@ -20,7 +20,7 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 | 1:30-1:40pm      |   10 minutes     |Walk over to talk room and set up any talk equipment |
 | 1:40-2:55pm      |   75 minutes     |Talk Session 1|
 | 2:55-3:10pm      |   15 minutes     |Coffee Break|
-| 3:10-4:10pm      |   60 minutes     |Poster Session 1|
+| 3:10-4:10pm      |   60 minutes     |Poster Session|
 | 4:10-4:25pm      |   15 minutes     |Coffee Break|
 | 4:25-5:40pm      |   75 minutes     |Talk Session 2|
 | 5:40-5:50pm      |   10 minutes     |Stretch Break|
@@ -30,7 +30,7 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 <h2>Talks</h2>
 Talks will be 15 minutes each (including Q&A). There are two talk sessions, each including presentations centered around a broader theme:
 
-<b>Language Development and Visual Attention</b>
+<b>Talk Session 1: Language Development and Visual Attention</b>
 <ol>
     <li>The first known case of DeafBlind children learning conventionalized “Protactile” language</li>
     <li>Syntactic category bias in early bilingual vocabularies</li>
@@ -39,7 +39,7 @@ Talks will be 15 minutes each (including Q&A). There are two talk sessions, each
     <li>Parent-Child Conversations about Science “Misconceptions”</li>
 </ol>
 
-<b>Talk Session 2 – Socialization, Emotion, and Cultural Interactions</b>
+<b>Talk Session 2: Socialization, Emotion, and Cultural Interactions</b>
 <ol>
     <li>Interviews with AAPI Parents on Racial Socialization</li>
     <li>Infant-centered Behavioral Response Patterns to Discrete Emotions</li>
