@@ -34,7 +34,7 @@ Talks will be 15 minutes each (including Q&A). There are two talk sessions, each
 
 <b>Talk Session 1: Language Development and Visual Attention</b>
 <ul>
-    <li>The first known case of deaf-blind children learning conventionalized “Protactile” language. <em>Jenny Lu, UC Berkeley</em></li>
+    <li>The first known case of DeafBlind children learning conventionalized “Protactile” language. <em>Jenny Lu, UC Berkeley</em></li>
     <li>Syntactic category bias in early bilingual vocabularies. <em>Alvin Tan, Stanford</em></li>
     <li>Estimating age-related change in infants’ linguistic and cognitive development using (meta-)meta-analysis. <em>Anjie Cao, Stanford</em></li>
     <li>From pixels to perception: investigating developing visual attention through convolutional neural networks. <em>Shannon Klotz, UC Davis</em></li>
