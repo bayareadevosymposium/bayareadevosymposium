@@ -7,14 +7,43 @@ nav: true
 nav_order: 3
 ---
 
-This year's Bay Area Developmental Symposium will be held at Stanford University in Palo Alto, CA, on Thursday, May 9. The event will start around lunchtime (~12pm) and end after a group dinner (~7-8pm). The schedule will include a poster session, a set of brief talks, as well as lunch and dinner to meet and talk with the other attendees. We expect to release our finalized program, including details on talk and poster sessions, directions, and parking, by mid-April!
+This year's Bay Area Developmental Symposium will be held at Stanford University in Palo Alto, CA, on Thursday, May 9. The event will start around lunchtime (~12pm) and end after a group dinner (~6-8pm, open end). The schedule includes a poster session, two talk sessions, as well as lunch and dinner to meet and talk with the other attendees. For details, see the schedule below!
 
-We warmly invite all SBSC-M participants to either give a <b>short talk or poster</b>, and we explicitly welcome <b>work at any stage</b>, including just an experimental idea or initial pilot results!
+```markdown
+| Time | Duration | Event |
+| :----------- | :------------: | ------------: |
+| 12-12:30pm       |   90 minutes     |Arrive at Stanford, put up posters, and choose from lunch options|
+| 12:35-12:45pm    |   10 minutes     |Opening remarks|
+| 12:45-1:30pm     |   60 minutes     |Faculty roundtable (optional) with lunch|
+| 1:30-1:40pm      |   10 minutes     |Walk over to talk room and set up any talk equipment |
+| 1:40-2:55pm      |   75 minutes     |Talk Session 1|
+| 2:55-3:10pm      |   15 minutes     |Coffee Break|
+| 3:10-4:10pm      |   60 minutes     |Poster Session 1|
+| 4:10-4:25pm      |   15 minutes     |Coffee Break|
+| 4:25-5:40pm      |   75 minutes     |Talk Session 2|
+| 5:40-5:50pm      |   10 minutes     |Stretch Break|
+| 5:50-6:00pm      |   10 minutes     |Closing Remarks|
+| 6-8 pm           |   120 minutes    |Rooftop Dinner (open end)|
+```
 
 <h2>Talks</h2>
-The finalized talk format will depend on the number of submissions but involves a presentation and Q&A portion (e.g., 15+5 or 25+5 for talks and Q&As, respectively).
+Talks will be 15 minutes each (including Q&A).
 
-Please feel free to reach out to us if you have any questions about presenting or ideas for talk formats!
+There are two talk sessions, each including presentations centered around a broader theme:
+
+<b>Language Development and Visual Attention</b>
+#1: The first known case of DeafBlind children learning conventionalized “Protactile” language
+#2: Syntactic category bias in early bilingual vocabularies
+#3: Estimating age-related change in infants’ linguistic and cognitive development using (meta-)meta-analysis
+#4: From pixels to perception: investigating developing visual attention through convolutional neural networks
+#5: Parent-Child Conversations about Science “Misconceptions”
+
+#1: Interviews with AAPI Parents on Racial Socialization
+#2: Infant-centered Behavioral Response Patterns to Discrete Emotions
+#3: Emotion Brokering: Helping others Navigate Intercultural Emotion-Based Misunderstandings
+#4: Does current ecological relevance attenuate the effects of chaotic home environments on children’s inhibitory control performance?
+#5: Young Children’s and Caregivers’ Evaluations about Household Helping in the U.S.
+<b>Talk Session 2 – Socialization, Emotion
 
 <h2>Posters</h2>
-We highly recommend that you come present a poster if you feel that you do not have enough content for a talk! The specific format of posters will be announced and communicated at a later date; check back in April for updates.
+Posters will be presented . Poster format will be announced and communicated in the coming weeks; check back around the end of April for updates!
