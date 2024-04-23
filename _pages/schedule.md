@@ -27,6 +27,8 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 | 5:50-6:00pm      |   10 minutes     |Closing remarks|
 | 6-8 pm           |   120 minutes    |Rooftop dinner (open end)|
 
+<br><br>
+
 <h2>Talks</h2>
 Talks will be 15 minutes each (including Q&A). There are two talk sessions, each including presentations centered around a broader theme:
 
