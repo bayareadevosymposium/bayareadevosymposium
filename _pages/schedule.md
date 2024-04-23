@@ -36,20 +36,20 @@ Talks will be 15 minutes each (including Q&A). There are two talk sessions, each
 
 <b>Talk Session 1: Language Development and Visual Attention</b>
 <ol>
-    <li>The first known case of DeafBlind children learning conventionalized “Protactile” language</li>
-    <li>Syntactic category bias in early bilingual vocabularies</li>
-    <li>Estimating age-related change in infants’ linguistic and cognitive development using (meta-)meta-analysis</li>
-    <li>From pixels to perception: investigating developing visual attention through convolutional neural networks</li>
-    <li>Parent-Child Conversations about Science “Misconceptions”</li>
+    <li>The first known case of deaf-blind children learning conventionalized “Protactile” language. <em>Jenny Lu, UC Berkeley</em></li>
+    <li>Syntactic category bias in early bilingual vocabularies. <em>Alvin Tan, Stanford</em></li>
+    <li>Estimating age-related change in infants’ linguistic and cognitive development using (meta-)meta-analysis. <em>Anjie Cao, Stanford</em></li>
+    <li>From pixels to perception: investigating developing visual attention through convolutional neural networks. <em>Shannon Klotz, UC Davis</em></li>
+    <li>Parent-Child Conversations about Science “Misconceptions”. <em>Sam McHugh, UCSC</em></li>
 </ol>
 
 <b>Talk Session 2: Socialization, Emotion, and Cultural Interactions</b>
 <ol>
-    <li>Interviews with AAPI Parents on Racial Socialization</li>
-    <li>Infant-centered Behavioral Response Patterns to Discrete Emotions</li>
-    <li>Emotion Brokering: Helping others Navigate Intercultural Emotion-Based Misunderstandings</li>
-    <li>Does current ecological relevance attenuate the effects of chaotic home environments on children’s inhibitory control performance?</li>
-    <li>Young Children’s and Caregivers’ Evaluations about Household Helping in the U.S.</li>
+    <li>Interviews with AAPI Parents on Racial Socialization. <em>Victoria Keating, UC Berkeley</em></li>
+    <li>Infant-centered Behavioral Response Patterns to Discrete Emotions. <em>Zeynep Ozden, UC Merced</em></li>
+    <li>Emotion Brokering: Helping others Navigate Intercultural Emotion-Based Misunderstandings. <em>Sivenesi Subramoney, UC Merced</em></li>
+    <li>Does current ecological relevance attenuate the effects of chaotic home environments on children’s inhibitory control performance? <em>Diego Placido, UC Davis</em></li>
+    <li>Young Children’s and Caregivers’ Evaluations about Household Helping in the U.S. <em>Margie Martinez, UCSC</em></li>
 </ol>
 
 <h2>Posters</h2>
