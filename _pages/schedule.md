@@ -16,9 +16,9 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 
 | Time | Duration | Event |
 | :----------- | :----------- | :----------- |
-| 12-1:30pm       |   90 minutes     |Arrive at Stanford, Lunch |
-| 12:35-12:45pm    |   10 minutes     |Opening remarks|
-| 12:45-1:30pm     |   60 minutes     |Faculty roundtable (optional) |
+| 12pm             |   -              |Arrive at Stanford, lunch is provided |
+| 12:30-12:45pm    |   10 minutes     |Opening remarks|
+| 12:45-1:30pm     |   45 minutes     |Faculty roundtable |
 | 1:30-1:40pm      |   10 minutes     |Presenters: Set up talk equipment |
 | 1:40-2:55pm      |   75 minutes     |Talk session 1|
 | 2:55-3:10pm      |   15 minutes     |Coffee break|
@@ -27,7 +27,7 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 | 4:25-5:40pm      |   75 minutes     |Talk session 2|
 | 5:40-5:50pm      |   10 minutes     |Stretch break|
 | 5:50-6:00pm      |   10 minutes     |Closing remarks|
-| 6-8 pm           |   120 minutes    |Rooftop dinner (open end)|
+| 6 pm             |   -              |Rooftop dinner|
 
 <br><br>
 
