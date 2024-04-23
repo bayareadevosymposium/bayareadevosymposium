@@ -5,9 +5,12 @@ title: Schedule
 description: 
 nav: true
 nav_order: 3
+pretty_table: true
 ---
 
-This year's Bay Area Developmental Symposium will be held at Stanford University in Palo Alto, CA, on Thursday, May 9. The event will start around lunchtime (~12pm) and end after a group dinner (~6-8pm, open end). The schedule includes a poster session, two talk sessions, as well as lunch and dinner to meet and talk with the other attendees. For details, see the schedule below!
+This year's Bay Area Developmental Symposium will be held at Stanford University in Palo Alto, CA, on <b>Thursday, May 9, 2024</b>. The event will start around lunchtime (~12pm) and end after a group dinner (~6-8pm, open end).
+<br><br>
+The full schedule includes <b>a poster session, two talk sessions, as well as lunch and dinner</b> to meet and talk with the other attendees. For details, see the schedule below!
 
 ```markdown
 | Time | Duration | Event |
@@ -32,18 +35,22 @@ Talks will be 15 minutes each (including Q&A).
 There are two talk sessions, each including presentations centered around a broader theme:
 
 <b>Language Development and Visual Attention</b>
-#1: The first known case of DeafBlind children learning conventionalized “Protactile” language
-#2: Syntactic category bias in early bilingual vocabularies
-#3: Estimating age-related change in infants’ linguistic and cognitive development using (meta-)meta-analysis
-#4: From pixels to perception: investigating developing visual attention through convolutional neural networks
-#5: Parent-Child Conversations about Science “Misconceptions”
+<ol>
+    <li>The first known case of DeafBlind children learning conventionalized “Protactile” language</li>
+    <li>Syntactic category bias in early bilingual vocabularies</li>
+    <li>Estimating age-related change in infants’ linguistic and cognitive development using (meta-)meta-analysis</li>
+    <li>From pixels to perception: investigating developing visual attention through convolutional neural networks</li>
+    <li>Parent-Child Conversations about Science “Misconceptions”</li>
+</ol>
 
-#1: Interviews with AAPI Parents on Racial Socialization
-#2: Infant-centered Behavioral Response Patterns to Discrete Emotions
-#3: Emotion Brokering: Helping others Navigate Intercultural Emotion-Based Misunderstandings
-#4: Does current ecological relevance attenuate the effects of chaotic home environments on children’s inhibitory control performance?
-#5: Young Children’s and Caregivers’ Evaluations about Household Helping in the U.S.
-<b>Talk Session 2 – Socialization, Emotion
+<b>Talk Session 2 – Socialization, Emotion</b>
+<ol>
+    <li>Interviews with AAPI Parents on Racial Socialization</li>
+    <li>Infant-centered Behavioral Response Patterns to Discrete Emotions</li>
+    <li>Emotion Brokering: Helping others Navigate Intercultural Emotion-Based Misunderstandings</li>
+    <li>Does current ecological relevance attenuate the effects of chaotic home environments on children’s inhibitory control performance?</li>
+    <li>Young Children’s and Caregivers’ Evaluations about Household Helping in the U.S.</li>
+</ol>
 
 <h2>Posters</h2>
 Posters will be presented . Poster format will be announced and communicated in the coming weeks; check back around the end of April for updates!

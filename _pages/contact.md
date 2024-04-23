@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 In case of questions or requests, feel free to reach out to any of the student representatives below!
-<br>
+<br><br>
 <b>Stanford:</b> Emily Chen, Sarah Tung, and Adani Abutto (`{emchen15, sstung, aabutto}[at]stanford[dot]edu`)
 
 <b>Berkeley:</b> Fei Dai and Alyson Wong (`{f_d, alyson_wong}[at]berkeley[dot]edu`)
@@ -18,5 +18,5 @@ In case of questions or requests, feel free to reach out to any of the student r
 <b>Merced:</b> Dylan Richardson (`drichardson4[at]ucmerced[dot]edu`)
 
 <b>Davis:</b> Shannon Klotz (`smklotz[at]ucdavis[dot]edu`)
-<br>
+<br><br>
 We look forward to hearing from you!
