@@ -7,14 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-We warmly invite all SBSC-M participants to either give a <b>short talk or poster</b>, and we explicitly welcome <b>work at any stage</b>, including just an experimental idea or initial pilot results! Please see <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/schedule" target="_blank">this page</a> for more information on these respective presentation formats.
+We warmly invite all SBSC-M participants to either give a <b>short talk or poster</b>, and we explicitly welcome <b>work at any stage</b>, including just an experimental idea or initial pilot results! The call for abstracts is now <b>closed</b>! Thank you for your submissions, and we look forward to seeing you on May 9!
 
-If you have any questions about presenting or ideas for talk formats, <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/contact" target="_blank">feel free to reach out</a> to the student representatives!
+Please see <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/schedule" target="_blank">this page</a> for more information on these respective presentation formats.
 
-For those <b>interested in giving a talk</b>, please submit an <b>abstract</b> no longer than 250-300 words using the <b>link below</b>. These abstracts will help us structure and constrain our talk schedule (in accordance with the number of submissions) and help us gain a sense of potential theme blocks.
-
-<br>
-<div style="text-align: center;">
-<b>Submission Form Link<b>: []
-<br><br>
-<b>DEADLINE:</b> The above submission form will close on Wed, <b>April 10, 2024, 12 PM PT</b>.
+If you have any questions about presenting, <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/contact" target="_blank">feel free to reach out</a> to the student representatives!
