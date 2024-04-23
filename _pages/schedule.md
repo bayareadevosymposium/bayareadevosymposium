@@ -28,9 +28,7 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 | 6-8 pm           |   120 minutes    |Rooftop Dinner (open end)|
 
 <h2>Talks</h2>
-Talks will be 15 minutes each (including Q&A).
-
-There are two talk sessions, each including presentations centered around a broader theme:
+Talks will be 15 minutes each (including Q&A). There are two talk sessions, each including presentations centered around a broader theme:
 
 <b>Language Development and Visual Attention</b>
 <ol>
