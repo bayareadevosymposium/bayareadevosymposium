@@ -6,6 +6,8 @@ description:
 nav: true
 nav_order: 3
 pretty_table: true
+toc:
+  sidebar: left
 ---
 
 This year's Bay Area Developmental Symposium will be held at Stanford University in Palo Alto, CA, on <b>Thursday, May 9, 2024</b>. The event will start around lunchtime (~12pm) and end after a group dinner (~6-8pm, open end).
