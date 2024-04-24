@@ -10,7 +10,7 @@ toc:
   sidebar: left
 ---
 
-There are two talk sessions (see <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/schedule" target="_blank">schedule</a> for details): The first, from 1:40-2:55pm, is loosely centered around the topic of “Language Development and Visual Attention,” and the second, from 4:25-5:40pm, is loosely centered around the topic of “Socialization, Emotion, and Cultural Interactions.” Each session is 75 minutes, and presenters have 15 minutes to present, including time for questions.
+There are two talk sessions (see <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/schedule" target="_blank">schedule</a> for details): <b>Language Development and Visual Attention<b> and <b>Socialization, Emotion, and Cultural Interactions</b<>. Each session is 75 minutes, and presenters have 15 minutes to present, including time for questions.
 
 <h2>Talk Session 1: Language Development and Visual Attention</h2>
 
@@ -54,6 +54,4 @@ There are two talk sessions (see <a href="https://bayareadevosymposium.github.io
 
 <h3>Young Children’s and Caregivers’ Evaluations about Household Helping in the U.S.</h3>
 <em>Margie Martinez, UCSC</em>
-{% details Abstract %}
-Young children’s helping can benefit the helper more than the receiving parent. This study examined how children and their caregivers incorporate the helper and recipient interests in evaluations of household helping. U.S. 4- to 6-year-olds (N = 87; 47 girls, 40 boys; 71% European American, 23% Asian American, 14% Latinx, 3% Black, and 2% Native American) and their caregivers evaluated whether a child in hypothetical scenarios should help their parent. Children’s judgments and reasoning incorporated both helper and recipient interests, whereas caregivers’ responses weighed the interests of the helping child more heavily. Caregiver judgments about obligation predicted children’s judgments. Findings suggest that perceptions of whose interests are served shape judgments and decisions around young children’s prosocial behaviors at home.
-{% enddetails %}
+<blockquote>Young children’s helping can benefit the helper more than the receiving parent. This study examined how children and their caregivers incorporate the helper and recipient interests in evaluations of household helping. U.S. 4- to 6-year-olds (N = 87; 47 girls, 40 boys; 71% European American, 23% Asian American, 14% Latinx, 3% Black, and 2% Native American) and their caregivers evaluated whether a child in hypothetical scenarios should help their parent. Children’s judgments and reasoning incorporated both helper and recipient interests, whereas caregivers’ responses weighed the interests of the helping child more heavily. Caregiver judgments about obligation predicted children’s judgments. Findings suggest that perceptions of whose interests are served shape judgments and decisions around young children’s prosocial behaviors at home.</blockquote>
