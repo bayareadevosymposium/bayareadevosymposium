@@ -278,44 +278,6 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Accordion
- .accordion {
-  background-color: var(--global-bg-color);
-  color: var(--global-text-color);
-  cursor: pointer;
-  padding: 18px;
-  margin: 5px;
-  width: 100%;
-  text-align: left;
-  border: none;
-  outline: none;
-  transition: 0.4s;
-  font-weight: normal;
-}
-
-.active, .accordion:hover {
-  color: var(--global-theme-color);
-}
-
-.panel {
-  padding: 0 18px;
-  background-color: var(--global-bg-color);
-  display: none;
-  overflow: hidden;
-} 
-
-.accordion:after {
-  content: '\02795'; /* Unicode character for "plus" sign (+) */
-  font-size: 13px;
-  color: #777;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2796"; /* Unicode character for "minus" sign (-) */
-}
-
 // Navbar customization
 
 .navbar {
