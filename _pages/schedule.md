@@ -68,4 +68,24 @@ Talks will be 15 minutes each (including Q&A). There are two talk sessions, each
 </ul>
 
 <h2>Posters</h2>
-The poster format will be announced and communicated by the end of April; check back soon for updates!
+There will be one poster session from 3:10-4:10pm, <b>held outdoors</b> in the Philosophy Courtyard. We recognize that having one poster session might not allow you to easily see others’ posters; however, we will have the poster boards available starting at 12pm when you arrive, so you are welcome to hang up your poster then and look at the other posters during the coffee breaks (see the full schedule for the symposium here). We also encourage you to walk around during the poster session, as it is not mandatory that you stay at your poster the entire time.
+ 
+The <b>maximum size for your poster is 4 feet (height) x 8 feet (width)</b> but you do not need to use the full space. Push pins will be provided!
+
+<script>
+    var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
