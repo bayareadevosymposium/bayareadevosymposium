@@ -15,6 +15,7 @@ This year's Bay Area Developmental Symposium will be held at Stanford University
 The full schedule includes <b>a poster session, two talk sessions, as well as lunch and dinner</b> to meet and talk with the other attendees. For details, see the schedule below!
 
 <h2>Overview</h2>
+
 | Time | Duration | Event |
 | :----------- | :----------- | :----------- |
 | 12pm             |   -              |Arrive at Stanford; lunch is provided |
