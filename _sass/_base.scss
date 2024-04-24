@@ -278,6 +278,30 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Accordion
+ .accordion {
+  background-color: var(--global-bg-color);
+  color: var(--global-text-color);
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: var(--global-theme-color);
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: var(--global-bg-color);
+  display: none;
+  overflow: hidden;
+} 
+
 // Navbar customization
 
 .navbar {
