@@ -41,6 +41,7 @@ Talks will be 15 minutes each (including Q&A). There are two talk sessions, each
     <li>From Pixels to Perception: Investigating Developing Visual Attention Through Convolutional Neural Networks. <em>Shannon Klotz, UC Davis</em></li>
     <li>Parent-Child Conversations about Science “Misconceptions.” <em>Sam McHugh, UCSC</em></li>
 </ul>
+
 <b>Talk Session 2: Socialization, Emotion, and Cultural Interactions</b>
 <ul>
     <li>Interviews with AAPI Parents on Racial Socialization. <em>Victoria Keating, UC Berkeley</em></li>
