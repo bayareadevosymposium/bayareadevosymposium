@@ -101,9 +101,9 @@ We are excited to have the following poster presentations:
 >
   <thead>
     <tr>
-      <th data-field="id" data-halign="left" data-align="center" data-sortable="true">Presenter</th>
-      <th data-field="school" data-halign="center" data-align="right" data-sortable="true">Institution</th>
-      <th data-field="title" data-halign="right" data-align="left" data-sortable="true">Poster Title</th>
+      <th data-field="id" data-halign="left" data-align="left" data-sortable="true">Presenter</th>
+      <th data-field="school" data-halign="left" data-align="left" data-sortable="true">Institution</th>
+      <th data-field="title" data-halign="left" data-align="left" data-sortable="true">Poster Title</th>
     </tr>
   </thead>
 </table>
