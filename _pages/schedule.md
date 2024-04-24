@@ -55,3 +55,14 @@ Talks will be 15 minutes each (including Q&A). There are two talk sessions, each
 
 <h2>Posters</h2>
 The poster format will be announced and communicated by the end of April; check back soon for updates!
+
+<script>
+function toggleAccordion(id) {
+  var element = document.getElementById(id);
+  if (element.style.display === 'none') {
+    element.style.display = 'block';
+  } else {
+    element.style.display = 'none';
+  }
+}
+</script>
