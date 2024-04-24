@@ -56,4 +56,4 @@ We are excited to host a range of poster presentations; for an overview see our 
 
 There will be one poster session from 3:10-4:10pm, <b>held outdoors</b> in the Philosophy Courtyard at Stanford University. We recognize that having one poster session might not allow you to easily see others’ posters; however, we will have the poster boards available starting at 12pm when you arrive, so you are welcome to hang up your poster then and look at the other posters during the coffee breaks.
  
-The <b>maximum size for posters is 4 feet (height) x 8 feet (width)</b> but you do not need to use the full space. Push pins will be provided!
+The <b>recommended poster size is 36 (height) x 48 inches (width)</b>, and the maximum size for posters is 4 feet (height) x 8 feet (width). You do not need to use the full space. Push pins will be provided!
