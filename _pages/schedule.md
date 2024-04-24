@@ -95,15 +95,17 @@ The <b>maximum size for your poster is 4 feet (height) x 8 feet (width)</b> but 
 document.addEventListener("DOMContentLoaded", function() {
     var acc = document.getElementsByClassName("accordion");
     for (var i = 0; i < acc.length; i++) {
-      acc[i].addEventListener("click", function() {
-        this.classList.toggle("active");
-        var panel = this.nextElementSibling;
-        if (panel.style.display === "block") {
-          panel.style.display = "none";
-        } else {
-          panel.style.display = "block";
-        }
-      });
+        acc[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var panel = this.nextElementSibling;
+            if (panel) { // Check if panel actually exists
+                if (panel.style.display === "block") {
+                    panel.style.display = "none";
+                } else {
+                    panel.style.display = "block";
+                }
+            }
+        });
     }
 });
 </script>
