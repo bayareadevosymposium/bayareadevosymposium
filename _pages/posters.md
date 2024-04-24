@@ -8,7 +8,7 @@ nav_order: 5
 pretty_table: true
 ---
 
-There will be one poster session from 3:10-4:10pm, <b>held outdoors</b> in the Philosophy Courtyard. We are excited to host a range of poster presentations; for an overview, see below!
+There will be one poster session from 3:10-4:10pm, <b>held outdoors</b> in the Philosophy Courtyard at Stanford University. We are excited to host a range of poster presentations; for an <b>overview, see below</b>!
 
 <table
   data-height="600"

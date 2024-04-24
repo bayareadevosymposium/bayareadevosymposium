@@ -8,7 +8,7 @@ nav_order: 3
 pretty_table: true
 ---
 
-This year's Bay Area Developmental Symposium will be held at Stanford University in Palo Alto, CA, on <b>Thursday, May 9, 2024</b>. The event will start around lunchtime (~12pm) and end after a group dinner (~6-8pm, open end).
+This year's Bay Area Developmental Symposium will be held at Stanford University in Stanford, CA, on <b>Thursday, May 9, 2024</b>. The event will start around noon and end after a group dinner (~6pm).
 <br><br>
 The full schedule includes <b>a poster session, two talk sessions, as well as lunch and dinner</b> to meet and talk with the other attendees. For details, see the schedule below!
 
@@ -54,6 +54,6 @@ Talks will be 15 minutes each (including Q&A). There are two talk sessions, each
 <h2>Posters</h2>
 We are excited to host a range of poster presentations; for an overview see our <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/posters" target="_blank">poster subpage here</a>!
 
-There will be one poster session from 3:10-4:10pm, <b>held outdoors</b> in the Philosophy Courtyard. We recognize that having one poster session might not allow you to easily see others’ posters; however, we will have the poster boards available starting at 12pm when you arrive, so you are welcome to hang up your poster then and look at the other posters during the coffee breaks (see the full schedule for the symposium here). We also encourage you to walk around during the poster session, as it is not mandatory that you stay at your poster the entire time.
+There will be one poster session from 3:10-4:10pm, <b>held outdoors</b> in the Philosophy Courtyard at Stanford University. We recognize that having one poster session might not allow you to easily see others’ posters; however, we will have the poster boards available starting at 12pm when you arrive, so you are welcome to hang up your poster then and look at the other posters during the coffee breaks.
  
-The <b>maximum size for your poster is 4 feet (height) x 8 feet (width)</b> but you do not need to use the full space. Push pins will be provided!
+The <b>maximum size for posters is 4 feet (height) x 8 feet (width)</b> but you do not need to use the full space. Push pins will be provided!
