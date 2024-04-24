@@ -91,21 +91,37 @@ There will be one poster session from 3:10-4:10pm, <b>held outdoors</b> in the P
  
 The <b>maximum size for your poster is 4 feet (height) x 8 feet (width)</b> but you do not need to use the full space. Push pins will be provided!
 
+We are excited to have the following poster presentations:
+
+<table
+  data-height="600"
+  data-search="true"
+  data-toggle="table"
+  data-url="{{ '/assets/json/table_data.json' | relative_url }}"
+>
+  <thead>
+    <tr>
+      <th data-field="id" data-halign="left" data-align="center" data-sortable="true">Presenter</th>
+      <th data-field="school" data-halign="center" data-align="right" data-sortable="true">Institution</th>
+      <th data-field="title" data-halign="right" data-align="left" data-sortable="true">Poster Title</th>
+    </tr>
+  </thead>
+</table>
+
+
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-    var acc = document.getElementsByClassName("accordion");
-    for (var i = 0; i < acc.length; i++) {
-        acc[i].addEventListener("click", function() {
-            this.classList.toggle("active");
-            var panel = this.nextElementSibling;
-            if (panel) { // Check if panel actually exists
-                if (panel.style.display === "block") {
-                    panel.style.display = "none";
-                } else {
-                    panel.style.display = "block";
-                }
-            }
-        });
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
     }
-});
+  });
+}
 </script>

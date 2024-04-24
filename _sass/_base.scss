@@ -290,6 +290,7 @@ ul.task-list input[type="checkbox"] {
   border: none;
   outline: none;
   transition: 0.4s;
+  font-weight: normal;
 }
 
 .active, .accordion:hover {
@@ -302,6 +303,18 @@ ul.task-list input[type="checkbox"] {
   display: none;
   overflow: hidden;
 } 
+
+.accordion:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
 
 // Navbar customization
 
