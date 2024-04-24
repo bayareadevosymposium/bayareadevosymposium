@@ -30,7 +30,9 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 <br><br>
 
 <h2>Talks</h2>
+
 Talks will be 15 minutes each (including Q&A). There are two talk sessions, each including presentations centered around a broader theme. For an overview of talks, see below; for a more comprehensive list including abstracts, see <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/talks" target="_blank">our talk subpage here</a>!
+
 <b>Talk Session 1: Language Development and Visual Attention</b>
 <ul>
     <li>The first known case of DeafBlind children learning conventionalized “Protactile” language. <em>Jenny Lu, UC Berkeley</em></li>
