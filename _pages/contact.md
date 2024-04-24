@@ -4,7 +4,7 @@ permalink: /contact
 title: Contact
 description: 
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 In case of questions or requests, feel free to reach out to any of the student representatives below!

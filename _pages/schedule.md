@@ -30,7 +30,7 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 <br><br>
 
 <h2>Talks</h2>
-Talks will be 15 minutes each (including Q&A). There are two talk sessions, each including presentations centered around a broader theme:
+Talks will be 15 minutes each (including Q&A). There are two talk sessions, each including presentations centered around a broader theme. For an overview of talks, see below; for a more comprehensive list including abstracts, see <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/talks" target="_blank">our talk subpage here</a>!
 <b>Talk Session 1: Language Development and Visual Attention</b>
 <ul>
     <li>The first known case of DeafBlind children learning conventionalized “Protactile” language. <em>Jenny Lu, UC Berkeley</em></li>
@@ -49,23 +49,8 @@ Talks will be 15 minutes each (including Q&A). There are two talk sessions, each
 </ul>
 
 <h2>Posters</h2>
+We are excited to host a range of poster presentations; for an overview see our <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/posters" target="_blank">poster subpage here</a>!
+
 There will be one poster session from 3:10-4:10pm, <b>held outdoors</b> in the Philosophy Courtyard. We recognize that having one poster session might not allow you to easily see others’ posters; however, we will have the poster boards available starting at 12pm when you arrive, so you are welcome to hang up your poster then and look at the other posters during the coffee breaks (see the full schedule for the symposium here). We also encourage you to walk around during the poster session, as it is not mandatory that you stay at your poster the entire time.
  
 The <b>maximum size for your poster is 4 feet (height) x 8 feet (width)</b> but you do not need to use the full space. Push pins will be provided!
-
-We are excited to host the following poster presentations:
-
-<table
-  data-height="600"
-  data-search="true"
-  data-toggle="table"
-  data-url="{{ '/assets/json/table_data.json' | relative_url }}"
->
-  <thead>
-    <tr>
-      <th data-field="id" data-halign="left" data-align="left" data-sortable="true">Presenter</th>
-      <th data-field="school" data-halign="left" data-align="left" data-sortable="true">Institution</th>
-      <th data-field="title" data-halign="left" data-align="left" data-sortable="true">Poster Title</th>
-    </tr>
-  </thead>
-</table>
