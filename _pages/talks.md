@@ -6,8 +6,6 @@ description:
 nav: true
 nav_order: 4
 pretty_table: true
-toc:
-  sidebar: left
 ---
 
 There are two talk sessions (see <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/schedule" target="_blank">schedule</a> for details): <b>Language Development and Visual Attention<b> and <b>Socialization, Emotion, and Cultural Interactions</b<>. Each session is 75 minutes, and presenters have 15 minutes to present, including time for questions.
