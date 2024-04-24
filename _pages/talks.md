@@ -9,7 +9,7 @@ pretty_table: true
 ---
 
 There are two talk sessions (see <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/schedule" target="_blank">schedule</a> for details): <b>Language Development and Visual Attention</b> and <b>Socialization, Emotion, and Cultural Interactions</b>. Each session is 75 minutes, and presenters have 15 minutes to present, including time for questions.
-
+<br><br><br>
 <h2>Talk Session 1: Language Development and Visual Attention</h2>
 
 <h3>The first known case of DeafBlind children learning conventionalized “Protactile” language</h3>
@@ -31,7 +31,7 @@ There are two talk sessions (see <a href="https://bayareadevosymposium.github.io
 <h3>Parent-Child Conversations about Science “Misconceptions”</h3>
 <em>Sam McHugh, UCSC</em>
 <blockquote>Abstract coming soon!</blockquote> 
-
+<br><br><br>
 <h2>Talk Session 2: Socialization, Emotion, and Cultural Interactions</h2>
 
 <h3>Interviews with AAPI Parents on Racial Socialization</h3>
