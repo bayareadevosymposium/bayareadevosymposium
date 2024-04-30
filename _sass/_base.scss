@@ -23,8 +23,7 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
-table td,
-table th {
+td {
   font-size: 1rem;
   color: var(--global-text-color) !important;
 }
@@ -37,8 +36,9 @@ table th {
     font-weight: 400;
     text-align: left;
     font-size: .8em;
+    font-size: 1rem;
+    color: var(--global-text-color) !important;
   }
-}
 
 a,
 table.table a {
