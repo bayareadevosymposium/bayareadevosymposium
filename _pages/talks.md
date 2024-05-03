@@ -12,9 +12,6 @@ There are two talk sessions (see <a href="https://bayareadevosymposium.github.io
 <br><br><br>
 <h2>Talk Session 1: Language Development and Visual Attention</h2>
 <br>
-<h3>The first known case of DeafBlind children learning conventionalized “Protactile” language</h3>
-<em>Jenny Lu, UC Berkeley</em>
-<blockquote>In this talk, I will discuss the first known case of DeafBlind children learning conventionalized “Protactile” language and interactive practices in the tactile modality. Protactile language is a new emerging tactile language, but to our knowledge has not yet been acquired by DeafBlind children. Bringing anthropological and psychological approaches together, we ask whether joint attention towards a shared point of reference is a product of socialization and cultural learning or is a skill that develops on a maturational timetable. Because these children have resided in sighted environments with hearing, sighted parents without much perceptible access to others’ actions and language input, it is an open question whether they readily develop tactile joint attention, which sets the foundation for learning Protactile phonology and deictic references (e.g., pointing). We present a case study of two DeafBlind children (n=2; 3;3-3;5 years) and analyze their naturalistic interactions with a DeafBlind adult who is a speaker of Protactile language. Using grounded ethnographic fieldnotes and linguistic analysis, we find that upon exposure to a DeafBlind language model, these children were gradually socialized to perform, perceive, and establish contact in the tactile modality in a way that is consistent with conventional articulatory mechanisms organized by protactile phonology and interactional practices, including joint attention. Secondly, the linguistic analysis demonstrates that the adult adjusts their use of language by innovating new constructions and functions in Protactile language. Both children and adults contribute to language emergence as they adjust to one another in the unfolding of interaction. Our findings suggest that language development and emergence are shaped, in part, by socially and culturally specific patterns of perception and attention.</blockquote>
 
 <h3>Syntactic Category Bias in Early Bilingual Vocabularies</h3>
 <em>Alvin Tan, Stanford</em>
@@ -34,9 +31,9 @@ There are two talk sessions (see <a href="https://bayareadevosymposium.github.io
 <br><br><br>
 <h2>Talk Session 2: Socialization, Emotion, and Cultural Interactions</h2>
 <br>
-<h3>Interviews with AAPI Parents on Racial Socialization</h3>
+<h3>How Children Think About Religious Segregation in India</h3>
 <em>Victoria Keating, UC Berkeley</em>
-<blockquote>In the United States, about one third of Asian American and Pacific Islanders (AAPI) report having personally experienced discrimination (Discrimination in America, 2017). This discrimination occurs not only in adulthood but even as young as childhood. In 2021, nearly 1 in 3 AAPI parents reported that their child had experienced an Anti-Asian hate incident in school (Jeung et al., 2021). Nonetheless, recent research has suggested that AAPI parents may be hesitant or reluctant to discuss race or discrimination with their children (Young et al., 2021). The current research continues to look at this phenomenon through in-depth interviews with a diverse group of parents of AAPI children (n=60). In these interviews, we asked about parents’ beliefs about ethnicity, race, and racial inequity in addition to whether they had discussed these topics with their children.  In this talk, I plan on discussing this study and potentially any preliminary results that we may have.</blockquote>
+<blockquote>Abstract coming soon!</blockquote>
 
 <h3>Infant-Centered Behavioral Response Patterns to Discrete Emotions</h3>
 <em>Zeynep Ozden, UC Merced</em>
