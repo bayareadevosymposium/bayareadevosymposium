@@ -16,7 +16,8 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 | :----------- | :----------- | :----------- | :----------- |
 | 12pm             |   -              |   Philosophy Courtyard  |Arrive at Stanford; lunch is provided |
 | 12:30-12:45pm    |   15 minutes     |   Bldg 420, Room 041    |Opening remarks|
-| 12:45-1:30pm     |   45 minutes     |   Bldg 420, Room 041    |Faculty roundtable |
+| 12:45-1:05pm     |   20 minutes     |   Bldg 420, Room 041    |Faculty roundtable 1: Research |
+| 1:10-1:30pm      |   20 minutes     |   Bldg 420, Room 041    |Faculty roundtable 2: Professional Development |
 | 1:30-1:40pm      |   10 minutes     |   Bldg 420, Room 041    |Presenters: Set up talk equipment |
 | 1:40-2:55pm      |   75 minutes     |   Bldg 420, Room 041    |Talk session 1|
 | 2:55-3:10pm      |   15 minutes     |   Outside Room 041      |Coffee break|
@@ -29,9 +30,15 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 
 <br><br>
 
+<h2>Faculty Roundtable</h2>
+
+The roundtable will consist of two sessions: the first will be more research focused (12:45-1:05pm) and the second will be more professional development focused (1:10-1:30pm). Student representatives will help facilitate the sessions. The main goals of both sessions are for attendees to get to know more about faculty's work, for attendees to meet people from other schools, and for everyone to learn from one another about a mutual topic of interest.
+
 <h2>Talks</h2>
 
 Talks will be 15 minutes each (including Q&A). There are two talk sessions, each including presentations centered around a broader theme. For an overview of talks, see below; for a more comprehensive list including abstracts, see <a href="https://bayareadevosymposium.github.io/bayareadevosymposium/talks" target="_blank">our talk subpage here</a>!
+
+The first session is from 1:40-2:55pm (with setup from 1:30-1:40pm) and the second session is from 4:25-5:40pm (with setup during the coffee break from 4:15-4:25pm). 
 
 <b>Talk Session 1: Language Development and Visual Attention</b>
 <ul>
