@@ -14,19 +14,19 @@ The full schedule includes <b>a poster session, two talk sessions, as well as lu
 
 | Time | Duration | Location | Event |
 | :----------- | :----------- | :----------- | :----------- |
-| 12pm             |   -              |   Philosophy Courtyard  |Arrive at Stanford; lunch is provided |
-| 12:30-12:45pm    |   15 minutes     |   Bldg 420, Room 041    |Opening remarks|
-| 12:45-1:05pm     |   20 minutes     |   Bldg 420, Room 041    |Faculty roundtable 1: Research |
-| 1:10-1:30pm      |   20 minutes     |   Bldg 420, Room 041    |Faculty roundtable 2: Professional Development |
-| 1:30-1:40pm      |   10 minutes     |   Bldg 420, Room 041    |Presenters: Set up talk equipment |
-| 1:40-2:55pm      |   75 minutes     |   Bldg 420, Room 041    |Talk session 1|
-| 2:55-3:10pm      |   15 minutes     |   Outside Room 041      |Coffee break|
-| 3:10-4:10pm      |   60 minutes     |   Philosophy Courtyard  |Poster session|
-| 4:10-4:25pm      |   15 minutes     |   Outside Room 041      |Coffee break|
-| 4:25-5:40pm      |   75 minutes     |   Bldg 420, Room 041    |Talk session 2|
-| 5:40-5:50pm      |   10 minutes     |   -                     |Stretch break|
-| 5:50-6:00pm      |   10 minutes     |   Bldg 420, Room 041    |Closing remarks|
-| 6 pm             |   -              |   Bldg 420, 5th floor   |Rooftop dinner|
+| 12pm          |   -              |   Philosophy Courtyard  |Arrive at Stanford; lunch is provided|
+| 12:30-12:45pm |   15 min     |   Bldg 420, Room 041       |Opening remarks|
+| 12:45-1:05pm  |   20 min     |   Bldg 420, Room 041       |Faculty roundtable 1: Research |
+| 1:10-1:30pm   |   20 min     |   Bldg 420, Room 041       |Faculty roundtable 2: Professional Development |
+| 1:30-1:40pm   |   10 min     |   Bldg 420, Room 041       |Presenters: Set up talk equipment |
+| 1:40-2:55pm   |   75 min     |   Bldg 420, Room 041       |Talk session 1|
+| 2:55-3:10pm   |   15 min     |   Outside Room 041         |Coffee break|
+| 3:10-4:10pm   |   60 min     |   Philosophy Courtyard     |Poster session|
+| 4:10-4:25pm   |   15 min     |   Outside Room 041         |Coffee break|
+| 4:25-5:40pm   |   75 min     |   Bldg 420, Room 041       |Talk session 2|
+| 5:40-5:50pm   |   10 min     |   -                        |Stretch break|
+| 5:50-6:00pm   |   10 min     |   Bldg 420, Room 041       |Closing remarks|
+| 6 pm          |   -          |   Bldg 420, 5th floor      |Rooftop dinner|
 
 <br><br>
 
